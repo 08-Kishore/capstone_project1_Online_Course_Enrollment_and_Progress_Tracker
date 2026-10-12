@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Online Course Enrollment and Progress Tracker
 📌 Week 1: Database Foundations (MySQL & MongoDB)
 Welcome to Week 1 of the Online Course Enrollment and Progress Tracker capstone project. This phase establishes the core database architecture, combining relational data management (MySQL) for structured entities and document storage (MongoDB) for flexible student reviews.
@@ -77,3 +78,6 @@ PowerShell
 python week1_database/seed_feedback.py
 🔜 Next Steps (Week 2 Preview)
 Data Preprocessing in Python: Load relational data using pandas and NumPy, clean missing values/percentages, and compute initial course-level analytics.
+=======
+# capstone_project1_Online_Course_Enrollment_and_Progress_Tracker
+>>>>>>> b26dd05114047c03bc3cea8d1a72b15325220814
