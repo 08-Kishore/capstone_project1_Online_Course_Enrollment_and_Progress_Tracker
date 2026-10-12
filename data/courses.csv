@@ -1,0 +1,21 @@
+course_id,course_name,department
+1,Database Systems,CS
+2,Data Analytics,Analytics
+3,Cloud Computing,Cloud
+4,Machine Learning,AI
+5,Web Development,IT
+6,Cybersecurity Fundamentals,IT
+7,Big Data Processing,Analytics
+8,Natural Language Processing,AI
+9,Computer Networks,CS
+10,Operating Systems,CS
+11,Software Engineering,IT
+12,Business Intelligence,Analytics
+13,Deep Learning,AI
+14,DevOps Practices,Cloud
+15,Mobile App Development,IT
+16,Data Visualization,Analytics
+17,Distributed Systems,CS
+18,AI Ethics,AI
+19,Blockchain Technology,IT
+20,Parallel Computing,CS
