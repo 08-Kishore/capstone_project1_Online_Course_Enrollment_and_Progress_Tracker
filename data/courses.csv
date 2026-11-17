@@ -19,3 +19,33 @@ course_id,course_name,department
 18,AI Ethics,AI
 19,Blockchain Technology,IT
 20,Parallel Computing,CS
+21,UI/UX Design,IT
+22,Internet of Things,Cloud
+23,Quantum Computing,AI
+24,Game Development,IT
+25,Enterprise Architecture,CS
+26,Robotics Process Automation,AI
+27,Cloud Security,Cloud
+28,Data Warehousing,Analytics
+29,Software Testing,IT
+30,IT Project Management,IT
+31,Advanced SQL,CS
+32,NoSQL Databases,CS
+33,Microservices Architecture,Cloud
+34,Computer Vision,AI
+35,Reinforcement Learning,AI
+36,Full Stack Development,IT
+37,Information Security,IT
+38,Data Governance,Analytics
+39,Time Series Analysis,Analytics
+40,Bioinformatics,AI
+41,Edge Computing,Cloud
+42,API Development,IT
+43,Compiler Design,CS
+44,Computer Graphics,CS
+45,IT Infrastructure,Cloud
+46,Statistical Modeling,Analytics
+47,Speech Recognition,AI
+48,Penetration Testing,IT
+49,ERP Systems,CS
+50,IT Compliance & Audit,IT
